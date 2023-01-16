@@ -9,7 +9,7 @@
     </ol>
 
 <h3>Deployment</h3>
-    <p>This project is deployed using render</p>
+    <p>This project is deployed using render and vercel </p>
 
 <h3>Built With</h3>
    <ul>
@@ -17,3 +17,6 @@
       <li><a href="https://expressjs.com/">Express</a> - The web framework used</li>
       <li><a href="https://openai.com/">OpenAI API</a> - The AI model used for generating responses</li>
     </ul>
+<>
+    <h2>Deployed Link</h2>
+    <a href='https://aichatbot-two.vercel.app/'></a>
