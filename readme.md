@@ -19,4 +19,4 @@
     </ul>
 <>
     <h2>Deployed Link</h2>
-    <a href='https://aichatbot-two.vercel.app/'></a>
+    <a href='https://aichatbot-two.vercel.app/'>chatBot</a>
